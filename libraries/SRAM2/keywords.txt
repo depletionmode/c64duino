@@ -1,0 +1,7 @@
+SRAM2	KEYWORD1
+readstream1	KEYWORD2
+writestream1	KEYWORD2
+readstream2	KEYWORD2
+writestream2	KEYWORD2
+closeRWstream	KEYWORD2
+RWdata	KEYWORD2
